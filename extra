@@ -5,3 +5,12 @@ userinput
 flaskapi
 
 
+param
+/
+if defined complusoruy to pass
+need to define the code route
+
+queryParam
+?
+not as such complusoruy
+no need define
